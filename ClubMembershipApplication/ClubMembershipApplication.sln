@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClubMembershipApplication", "ClubMembershipApplication.csproj", "{ED5D18AF-D0D9-4821-B1CD-31F0DF01D3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldValidatorAPI", "..\FieldValidatorAPI\FieldValidatorAPI.csproj", "{E567D1DE-CD57-40EC-ACE4-37BB5346C8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5D18AF-D0D9-4821-B1CD-31F0DF01D3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5D18AF-D0D9-4821-B1CD-31F0DF01D3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5D18AF-D0D9-4821-B1CD-31F0DF01D3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5D18AF-D0D9-4821-B1CD-31F0DF01D3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E567D1DE-CD57-40EC-ACE4-37BB5346C8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E567D1DE-CD57-40EC-ACE4-37BB5346C8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E567D1DE-CD57-40EC-ACE4-37BB5346C8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E567D1DE-CD57-40EC-ACE4-37BB5346C8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B9F856F-E317-4994-B5C3-0181DCD426A5}
+	EndGlobalSection
+EndGlobal
